@@ -1,18 +1,16 @@
-### Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k906506)](https://solved.ac/k906506/)
 
-<!--
-**k906506/k906506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Tech
+- C / C++
+- Python
+- java
 
-Here are some ideas to get you started:
+## 🌱 Studying
+- Html / CSS / JavaScript
+- Blockchain
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk906506&count_bg=%230046FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## ⚡  Plan
+- Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk906506&count_bg=%235096E1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcodekodo.tistory.com&count_bg=%235096E1&title_bg=%23555555&icon=blogger.svg&icon_color=%23E7E7E7&title=blog&edge_flat=false)](https://hits.seeyoufarm.com)
