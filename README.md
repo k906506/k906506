@@ -1,7 +1,6 @@
-<center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k906506)](https://solved.ac/k906506/)
-</center>
 
+<center>
 ## 🔭 Tech
 - C / C++
 - Python
