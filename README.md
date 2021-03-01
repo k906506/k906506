@@ -1,5 +1,3 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k906506)](https://solved.ac/k906506/)
-
 ![k906506's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=k906506)
 
 ## 🔭 Stack
