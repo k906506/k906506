@@ -9,5 +9,3 @@
 
 ## 💯 Grade
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k906506&show_icons=true&theme={great-gatsby})](https://github.com/k906506/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k906506)](https://solved.ac/k906506/)
