@@ -1,6 +1,5 @@
 ```java
 1 DAY 1 POST 🤑 && 1 DAY 1 COMMIT 🙄
-COME TO MY BLOG
 ```
 
 ## 🔭 Stack
