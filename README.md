@@ -1,4 +1,4 @@
-<h2 align="center">1 DAY 1 POST 🤑 && 1 DAY 1 COMMIT 🙄</h3>
+<h2 align="center">1 DAY 1 POST 🤑 && 1 DAY 1 COMMIT 🙄</h2>
 <p>
 </p>
 <h3 align="center">📚 Tech Stack 📚</h3>
