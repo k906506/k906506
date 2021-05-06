@@ -26,12 +26,6 @@
 
 <h3 align="center">💯 Grade 💯</h3>
 <div align="center">
-  (https://github-readme-stats.vercel.app/api?username=k906506&show_icons=true&theme={great-gatsby})](https://github.com/k906506/github-readme-stats)
-</div>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k906506&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/k906506/github-readme-stats)
 </div>
 
