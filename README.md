@@ -25,11 +25,7 @@
 </p>
 
 <h3 align="center">💯 Grade 💯</h3>
-
 <div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k906506&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/k906506/github-readme-stats)
 </div>
-
-<p align="center">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk906506&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</p>
