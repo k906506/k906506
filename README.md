@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=Blockchain.com&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=Blockchain.com&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
   
