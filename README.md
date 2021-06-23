@@ -21,6 +21,7 @@
 </p>
 
 <h3 align="center">🏬 Career 🏬</h3>
+#
 | Type | Date | Contents | Organization |
 | ---- | ---- | ---- | ---- |
 | Intern | 2021.06 ~ 2021.08 | Develope Application | 지란지교 소프트 |
