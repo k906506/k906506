@@ -25,8 +25,8 @@
 | Type | Date | Contents | Organization |
 | ---- | ---- | ---- | ---- |
 | Intern | 2021.06 ~ 2021.08 | Develope Application | 지란지교 소프트 |
-| Undergraduate research student | 2021.02 ~ 2021.05 | Research about Bitcoin | 충남대학교 데이터네트워크연구실 |
-| Part time job | 2020.12 ~ 2021.01 | Build machine learning data | KISTI
+| Undergraduate research student | 2021.02 ~ 2021.05 | Research about Bitcoin | 충남대학교 |
+| Part time job | 2020.12 ~ 2021.01 | Build machine learning data | KISTI |
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
