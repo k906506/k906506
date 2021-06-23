@@ -18,8 +18,13 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
-  
 </p>
+
+<h3 align="center">🏬 Career >🏬</h3>
+| Type | Date | Contents | Organization |
+| Intern | 2021.06 ~ 2021.08 | Develope app | 지란지교 소프트 |
+| Undergraduate research student | 2021.02 ~ 2021.05 | Research about Bitcoin | 충남대학교 데이터네트워크연구실 |
+| Part time job | 2020.12 ~ 2021.01 | Build machine learning data | 충남대학교 데이터네트워크연구실 |
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
