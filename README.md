@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
+  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=k906506)](https://solved.ac/k906506)
 
 </p>
 <h3>🏬 Career </h3>
