@@ -19,8 +19,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 - 👨🏽‍💻 I’m currently working on [Jiransoft Intern](https://www.jiransoft.co.kr/)
-- 🥋 I am studying hard Dart & Flutter & Kotlin
-- 😁 I'm interested in Android
+- 🥋 I'm studying hard Dart & Flutter & Kotlin
+- 😁 I'm interested in Android and wanna be a Android Developer
 
 **Languages and Tools :** 
 
@@ -39,9 +39,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
