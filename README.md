@@ -10,8 +10,7 @@ You can use the website to generate badges: https://shields.io/
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=k906506)](https://solved.ac/k906506)
   </div>
-  
-&nbsp;
+
 <!-- Talking about you -->
 **Talking about me :**
 
