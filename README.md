@@ -17,8 +17,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
-- 👨🏽‍💻 I’m currently working on [Jiransoft Intern](https://www.jiransoft.co.kr/)
-- 🥋 I'm studying hard Dart & Flutter & Kotlin
+- 👨🏽‍💻 Today I Learned <a href="https://www.notion.so/codekodo"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/codekodo"/></a>&nbsp
+- 🥋 I'm studying hard Dart & Flutter & Kotlin [Velog]
 - 😁 I'm interested in Android and wanna be a Android Developer
 
 **Languages and Tools :** 
