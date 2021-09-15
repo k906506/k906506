@@ -18,8 +18,9 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 - 👨🏽‍💻 [Today I Learned](https://www.notion.so/codekodo/TIL-e8508a9b01cc49a79dd8497c206ed840)
-- 🥋 I'm studying hard Dart & Flutter & Kotlin [Velog](https://velog.io/@k906506)
+- 🥋 I'm studying hard Dart & Flutter & Kotlin 
 - 😁 I'm interested in Android and wanna be a Android Developer
+- 🐱 Visit my Blog! [Velog](https://velog.io/@k906506)
 
 **Languages and Tools :** 
 
