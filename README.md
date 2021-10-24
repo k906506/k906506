@@ -60,7 +60,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 | Type | Date | Contents | Organization |
 | ---- | ---- | ---- | ---- |
-| Intern | 2021.06 ~ 2021.08 | [Develope Application](https://github.com/Jiransoft-hyeonhyun) | 지란지교소프트 |
+| Intern | 2021.06 ~ 2021.08 | [Develop Application](https://github.com/Jiransoft-hyeonhyun) | 지란지교소프트 |
 | Undergraduate research student | 2021.02 ~ 2021.05 | [Research about Bitcoin](https://github.com/k906506/Bitcoin-Visualization) | 충남대학교 컴퓨터공학과 |
 | Part time job | 2020.12 ~ 2021.01 | Build machine learning data | 한국과학기술정보연구원 | 
 
