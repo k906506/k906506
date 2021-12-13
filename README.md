@@ -9,7 +9,7 @@
 
 - 👨🏽‍💻 [Today I Learned](https://www.notion.so/codekodo/TIL-e8508a9b01cc49a79dd8497c206ed840)
 - 🥋 I'm studying hard Dart & Flutter & Kotlin 
-- 😁 I'm interested in Android and wanna be a Android Developer
+- 😁 I'm interested in Android and wanna be **Android Developer**
 - 🐱 Visit my Blog! [Velog](https://velog.io/@k906506)
 
 **Languages and Tools :** 
