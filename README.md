@@ -12,7 +12,7 @@
 - 😁 I'm interested in Android and wanna be **Android Developer**
 - 🐱 Visit my Blog! [Velog](https://velog.io/@k906506) -> [Tistory](https://codekodo.tistory.com/)
 
-**Languages and Tools :** 
+<!-- **Languages and Tools :** 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -42,7 +42,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
+--> -->
 
 **My Career :** 
 
