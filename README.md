@@ -48,9 +48,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 | Type | Date | Contents | Language | Organization | 
 | ---- | ---- | ---- | ---- | ---- |
-| Intern | 2021.06 ~ 2021.08 | [Develop Application](https://github.com/Jiransoft-hyeonhyun) | Dart | 지란지교소프트 |
-| Undergraduate research student | 2021.02 ~ 2021.05 | [Research about Bitcoin](https://github.com/k906506/Bitcoin-Visualization) | Python | 충남대학교 컴퓨터공학과 |
-| Part time job | 2020.12 ~ 2021.01 | Build machine learning data | Python | 한국과학기술정보연구원 | 
+| Intern | 21.06 ~ 21.08 | [Develop Application](https://github.com/Jiransoft-hyeonhyun) | Dart | 지란지교소프트 |
+| Undergraduate research student | 21.02 ~ 21.05 | [Research about Bitcoin](https://github.com/k906506/Bitcoin-Visualization) | Python | 충남대학교 컴퓨터공학과 |
+| Part time job | 20.12 ~ 21.01 | Build machine learning data | Python | 한국과학기술정보연구원 | 
 
 
 **Follow me :** 
