@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Dohyeon Ko, Junior in CNU.
+## Hi, I'm Dohyeon Ko, Senior in CNU.
 
 <!-- Talking about you -->
 **Talking about me :**
@@ -7,8 +7,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-- 👨🏽‍💻 [Today I Learned](https://www.notion.so/codekodo/TIL-e8508a9b01cc49a79dd8497c206ed840)
-- 🥋 I'm studying hard Dart & Flutter & Kotlin 
+- 🥋 I'm studying hard Kotlin & Android
 - 😁 I'm interested in Android and wanna be **Android Developer**
 - 🐱 Visit my Blog! [Velog](https://velog.io/@k906506) -> [Tistory](https://codekodo.tistory.com/)
 
