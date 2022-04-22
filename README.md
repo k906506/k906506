@@ -9,7 +9,7 @@
 
 - 🥋 I'm studying hard Kotlin & Android
 - 😁 I'm interested in Android and wanna be **Android Developer**
-- 🐱 Visit my Blog! [Velog](https://velog.io/@k906506) -> [Tistory](https://codekodo.tistory.com/)
+- 🐱 Visit my Blog! [Tistory](https://codekodo.tistory.com/)
 
 <!-- **Languages and Tools :** 
 
