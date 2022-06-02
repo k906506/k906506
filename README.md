@@ -7,8 +7,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-- 🥋 I'm studying hard Kotlin & Android
-- 😁 I'm interested in Android and wanna be **Android Developer**
+- 🥋 I'm studying Swift & iOS
 - 🐱 Visit my Blog! [Tistory](https://codekodo.tistory.com/)
 
 <!-- **Languages and Tools :** 
