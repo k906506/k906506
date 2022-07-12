@@ -48,6 +48,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 | Type | Period | Contents | Language | Organization | 
 | ---- | ---- | ---- | ---- | ---- |
+| Intern | 22.07 ~ 22.08 | Develop Application | Dart | NCSOFT |
 | Global SW / AI Internship | 21.12 ~ 22.02 | [Research & Develop Application](https://github.com/CNU-PURDUE-4GUYS) | Kotlin | Purdue University |
 | Intern | 21.06 ~ 21.08 | [Develop Application](https://github.com/Jiransoft-hyeonhyun) | Dart | 지란지교소프트 |
 | Undergraduate research student | 21.02 ~ 21.05 | [Research about Bitcoin](https://github.com/k906506/Bitcoin-Visualization) | Python | 충남대학교 컴퓨터공학과 |
