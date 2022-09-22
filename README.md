@@ -1,7 +1,3 @@
-<div align="center">
-	<code><img width="25%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-    <code><img width="25%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
-</div>
 
 ### 📚 Education & Experience
 - **멋쟁이사자처럼 iOS 앱스쿨 1기** `22.09 ~ 23.02`
