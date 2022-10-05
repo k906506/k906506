@@ -8,6 +8,8 @@
 
 ### 🏅 Award
 - **2022 CNU SW/AI Project Fair** `대상`
+- **2022 CNU Engineering Fair** `우수상`
+- **2022 CNU Engineering Fair** `장려상`
 - **2022 CNU SW/AI Project Fair** `장려상`
 - **2022 CNU SW/AI Project Fair (Junior)** `장려상` 
 
