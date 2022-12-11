@@ -6,13 +6,6 @@
 - **지란지교소프트 인턴** `21.06 ~ 21.08`
 - **충남대학교 데이터네트워크 연구실 학부연구생** `21.02 ~ 21.05`
 
-### 🏅 Award
-- **2022 CNU SW/AI Project Fair** `대상`
-- **2022 CNU Engineering Fair** `우수상`
-- **2022 CNU Engineering Fair** `장려상`
-- **2022 CNU SW/AI Project Fair** `장려상`
-- **2022 CNU SW/AI Project Fair (Junior)** `장려상` 
-
 ### 🙋‍♂️ Follow Me
 
 <p>
