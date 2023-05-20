@@ -3,9 +3,9 @@
 ### 📚 Education & Experience
 - **멋쟁이사자처럼 iOS 앱스쿨 1기** `22.09 ~ 23.02`
 - **NCSOFT Summer Intern** `22.07 ~ 22.08`
+- **충남대학교 글로벌인재트랙 6기** `21.12 ~ 22.02`
 - **지란지교소프트 인턴** `21.06 ~ 21.08`
 - **데이터네트워크 연구실 학부연구생** `21.02 ~ 21.05`
-- **충남대학교 글로벌인재트랙 6기** `21.12 ~ 22.02`
 
 <br>
 
@@ -28,7 +28,7 @@
   <a href="mailto:kodo@kakao.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
   
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=k906506"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k906506)](https://solved.ac/profile/k906506)
 
 <br>
 <br>
