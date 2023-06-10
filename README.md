@@ -1,6 +1,7 @@
 <!-- # [고도현(Dohyeon Ko)](https://my.surfit.io/w/1349169334) 🙋‍♂️ -->
 
 ### 📚 Education & Experience
+- **Nexters 23기** `23.07 ~ 23.09`
 - **멋쟁이사자처럼 iOS 앱스쿨 1기** `22.09 ~ 23.02`
 - **NCSOFT Summer Intern** `22.07 ~ 22.08`
 - **SW중심대학 글로벌인재트랙 6기** `21.12 ~ 22.02`
