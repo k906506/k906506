@@ -21,7 +21,7 @@
 <p>
  -->
 
-### 🙋‍♂️ Follow Me
+### 🙋‍♂️ [Follow Me](https://my.surfit.io/w/1349169334)
 
 <p>
   <a href="https://my.surfit.io/w/1349169334"><img src="https://img.shields.io/badge/Resume-gold?style=flat&logo=awesomelists&logoColor=white&link=https://my.surfit.io/w/1349169334"/>&nbsp
