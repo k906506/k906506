@@ -1,7 +1,7 @@
 <!-- # [고도현(Dohyeon Ko)](https://my.surfit.io/w/1349169334) 🙋‍♂️ -->
 
 ### 📚 Education & Experience
-1. **한화시스템/ICT (Core Banking)** - `23.08 ~ ing`
+1. **한화시스템/ICT (Core System)** - `23.08 ~ ing`
 2. **Nexters 23기 (iOS)** - `23.07 ~ 23.08 (2M)`
 3. **멋쟁이사자처럼 iOS 앱스쿨 1기 (iOS)** - `22.09 ~ 23.02 (6M)`
 4. **NCSOFT Summer Intern (Flutter)** - `22.07 ~ 22.08 (7W)`
